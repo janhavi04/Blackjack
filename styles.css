@@ -1,0 +1,59 @@
+body{
+    background-image: url("image.jpg");
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+}
+h1{
+    font-weight: bolder;
+    font-size: 5rem;
+    color: goldenrod;
+    /* position: absolute;
+    top: 20px;
+    left: 40%; */
+}
+#message-el{
+    /* position: absolute;
+    top: 180px;
+    left: 37%; */
+    font-weight: 900;
+    font-size: 3rem;
+    font-style: italic;
+   
+}
+
+#card-el{
+    /* position: absolute;
+    top: 281px;
+    left: 50%; */
+    font-size: 2rem;
+   
+}
+
+#sum-el{
+    /* position: absolute;
+    top: 350px;
+    left: 50.5%; */
+    font-size: 2rem;
+    
+}
+
+#start{
+    box-sizing: border-box;
+    color: #016f32;
+    width: 150px;
+    height: 50px;
+    background-color: goldenrod;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-weight: bolder;
+    /* position: absolute;
+    top: 450px;
+    left: 730px; */
+}
+#start:hover{
+    background-color: bisque;
+}
