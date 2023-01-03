@@ -77,3 +77,10 @@ h1{
 #newcard:hover{
     background-color: bisque;
 }
+
+#player-el{
+    font-size: 2rem;
+    position: absolute;
+    top: 550px;
+    left: 690px; 
+}
